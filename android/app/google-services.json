@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989297428278",
+    "project_id": "singupsinginloginscreen",
+    "storage_bucket": "singupsinginloginscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989297428278:android:0bd0dc2d584498e9fc9597",
+        "android_client_info": {
+          "package_name": "com.flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyraUHLNtfcsGtgiPW8kW33VOb9BdSV_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989297428278:android:0323e2f65d37a653fc9597",
+        "android_client_info": {
+          "package_name": "com.flutter.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyraUHLNtfcsGtgiPW8kW33VOb9BdSV_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
